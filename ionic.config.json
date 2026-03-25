@@ -1,0 +1,7 @@
+{
+  "name": "cartão de identificação",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
